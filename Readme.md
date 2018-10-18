@@ -101,5 +101,5 @@ print("Test Accuracy (R^2 score):" + str((metrics.r2_score(ytest, xgb.predict(Xt
 Printing the Train and Test Accuracy (R^2 score)
 
 ## Model results 
-###Training Accuracy (R^2 score): 99.92146242417436
-###Test Accuracy (R^2 score): 96.89975735051324
+### Training Accuracy (R^2 score): 99.92146242417436
+### Test Accuracy (R^2 score): 96.89975735051324
