@@ -1,4 +1,3 @@
-![Alt text](Image.png?raw=true "Title") 
  
 In This Document I am going to explain how I passive towards the solution innovaccer problem statement.  
 you can read the problem statement and the data-set from ACO Problem Statement.xlsx file 
